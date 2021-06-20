@@ -116,7 +116,7 @@ button:hover {
   }
 }
 
-@media (min-width: 650px) and (max-width: 1400px) {
+@media (min-width: 650px) and (max-width: 1200px) {
   img {
     width: 250px;
     height: 300px;
@@ -125,7 +125,7 @@ button:hover {
   }
 }
 
-@media (min-width: 650px) and (max-width: 1400px) {
+@media (min-width: 650px) and (max-width: 1200px) {
   .p-text {
     position: absolute;
     top: 20%;
@@ -135,7 +135,7 @@ button:hover {
   }
 }
 
-@media (min-width: 650px) and (max-width: 1400px) {
+@media (min-width: 650px) and (max-width: 1200px) {
   footer {
     text-align: center;
     position: absolute;
