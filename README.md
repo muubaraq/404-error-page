@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/muubaraq/error-page.git">
+    <a href="https://github.com/muubaraq/404-error-page">
       Solution
     </a>
     <span> | </span>
@@ -57,6 +57,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@muubaraq](https://{github.com/your-muubaraq})
 - Twitter [@muubaraq](https://{twitter.com/muubaraq})
