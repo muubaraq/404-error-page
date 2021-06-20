@@ -1,4 +1,4 @@
-<!-- Please update value in the {}  -->
+
 
 <h1 align="center">{404 Not Found Page}</h1>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://wonderful-dijkstra-bcf5ed.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 ![screenshot](https://www.awesomescreenshot.com/image/9646656?key=a14b0f20ff7040bd084ddbdc3387ae5e)
 
 
-- Where can I see your demo?
+- Where can I see your demo? You can see it at netlify. The link is above (demo)
 - It was fun creating something. Just reading tutorials or watching tutorials won't do the trick. you need to practice what you have learned
 - Learned how to create media queries and i have also learned that with practice brings improvement
 - Your wisdom? : Focus on your growth and always try to learn from others
